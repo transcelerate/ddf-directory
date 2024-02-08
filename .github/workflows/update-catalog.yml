@@ -1,0 +1,51 @@
+name: Update Catalog Run
+
+on:
+  issues:
+    types: [opened]
+
+env:
+  GITHUB_CONTEXT: ${{ toJson(github.event.issue) }}
+
+jobs:
+  update-catalog:
+    name: Update Catalog
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+    - name: Check-out python repository
+      uses: actions/checkout@v4
+      with:
+        sparse-checkout: 'catalog'
+        sparse-checkout-cone-mode: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Check root file system
+      run: |
+        ls ${{ github.workspace }}
+
+    - name: check catalog
+      run: |
+        ls ${{ github.workspace }}/catalog
+
+    - name: Run add_row
+      run: python ${{ github.workspace }}/catalog/add_row.py
+      shell: sh
+
+    - name: Check git config
+      run: |
+        git config --list
+
+    - name: Set config and commit changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add ${{ github.workspace }}/catalog/catalog.md
+        git commit -m "Adding Row from issue #${{ github.event.issue.number }} to Catalog via Github Action"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,125 @@
+name: New Catalog Entry
+description: Add a row to the DDF Catalog
+title: "[DDF Catalog Entry] : INSTRUCTION TO USERS HERE RE: TITLING ISSUE"
+body:
+  - type: markdown
+    attributes:
+      value: "# Lorem Ipsum"
+
+  - type: markdown
+    attributes:
+      value: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo, iure. Officia nam dolor sit voluptatem esse provident labore blanditiis magnam quas, omnis error deserunt perspiciatis facere aliquam ipsam commodi nobis optio cum doloribus! Saepe vitae tempora deserunt?"
+
+  - type: input
+    id: org_name
+    attributes:
+      label: Organization Name
+      description: What is the name of your organization or team?
+    validations:
+      required: true
+  
+  - type: input
+    id: product_name
+    attributes:
+      label: Product Name
+      description: What is the name of your Digital Data Flow (DDF) compatible solution or platform?
+    validations:
+      required: true
+
+  - type: input
+    id: primary_contact_email
+    attributes:
+      label: Primary Point of Contact Email
+      description: What is the primary contact email for your product/solution?
+    validations:
+      required: true
+
+  - type: input
+    id: secondary_contact_email
+    attributes:
+      label: Secondary Point of Contact Email
+      description: What is the secondary contact email for your product/solution? (Optional)
+    validations:
+      required: false
+  
+  - type: textarea
+    id: product_short_desc
+    attributes:
+      label: Product Short Description
+      description: Please provide a short description of your solution (250 characters or less)
+    validations:
+      required: true
+
+  - type: textarea
+    id: product_long_desc
+    attributes:
+      label: Product Long Description
+      description: Please describe your solution, making sure to include how it utilizes the Unified Study Definition Model (USDM), how it enables protocol digitization, and where it sits on the development lifecycle.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: use_cases
+    attributes:
+      label: Covered Use Cases
+      description: Please select one or more of the following use cases which your solution enables.
+      options:
+        - label: Decentralized Clinical Trials (DCT)
+        - label: Diverse and Inclusive Trial Design
+        - label: Electronic Data Capture (EDC)
+        - label: Electronic Health Record (EHR)
+        - label: eSource
+        - label: Inclusion / Exclusion criteria
+        - label: Operational systems (i.e. CTMS, IRT, etc.)
+        - label: Registry reporting
+        - label: Regulatory submission
+
+  - type: textarea
+    id: other_use_case
+    attributes:
+      label: Other Use Case(s)
+      description: If not listed above, please enter your use case(s) below separated by a comma.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: usdm_version
+    attributes:
+      label: USDM Version Compatibility
+      description: What version of the USDM is your solution compatible with?
+      multiple: false
+      options:
+        - "1.0"
+        - "1.5"
+        - "2.0"
+        - "2.5"
+        - "2.6"
+        - "3.0"
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: product_link
+    attributes:
+      label: Link to Product Website
+      description: Provide a link to your product website. (Optional)
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: "## Legal Disclaimer"
+
+  - type: markdown
+    attributes:
+      value: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit non quae provident neque. Soluta ex eum impedit sed ut dolore culpa natus! Possimus, laudantium? Facere blanditiis provident aspernatur. Mollitia, sed qui dolore ad sit quis nihil quod reprehenderit, perspiciatis labore accusantium ab, atque porro doloremque. Voluptatum, maiores iste dicta doloremque necessitatibus nobis mollitia, voluptas, quis aut provident doloribus? Maxime officiis facilis est rem exercitationem itaque veniam qui accusantium quis, labore aliquid doloremque quibusdam voluptatibus eius sequi aut eum soluta perspiciatis voluptates veritatis harum. Saepe consequatur, obcaecati quasi quia repellendus nam minima enim! Rem quam, quos odit facilis distinctio quo molestiae!"
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm Submission?
+      description: Check the box below to enable submission.
+      options:
+        - label: Confirm Submission
+          required: true
