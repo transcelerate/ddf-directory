@@ -6,16 +6,17 @@ Our current iteration of the DDF Solution Catalog is meant to provide basic func
 
 Each line of the table represents a unique solution, and will contain the following information:
 
-Organization Name - 
-Solution Name
-Contact Email
-Solution Description
-More Info
-Covered Use Cases
-USDM Version Compatability - 
+* Organization Name - Name of company or team which owns the solution.
+* Solution Name - Name of the specific DDF compatible solution.
+* Contact Email - Point of contact for more infomration on the solution.
+* Solution Description - Short description of what the solution does, limited to 250 characters max.
+* More Info - For more information, click this link to view the long description submitted with the solution.
+* Covered Use Cases - Specific use cases addressed by the solution (use case descriptions are below)
+* USDM Version Compatability - Latest compatible version of the USDM which the solution utilizes.
 * Link - External link to organizations website with more information on the specific solution.
 
-
+### Use Case Descriptions
+* 
 
 
 You can search the catalog using your web browser’s built in “search in page” function by pressing “CTRL + F” on Windows, or “CMD + F” for Apple. This will allow you to find specific key words, or use cases, which match your specific needs.
