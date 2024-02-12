@@ -28,6 +28,7 @@ body:
         * Registry reporting - Solutions providing automated submission to data registries
         * Regulatory submission - Solutions providing automated submission to regulatory bodies
         * Study authoring - Solutions used to design and publish a study protocol
+        * Other use case - If your solution is addressing a use case we do not currently capture, please list this in the "Other Use Case(s)" field for inclusion.
 
         
         5. Think of this catalog as a virtual brochure or business card which you would give to someone at an in-person event. It should contain enough information to inform them on your product and give an idea of where to reach out to continue the conversation.
@@ -96,10 +97,11 @@ body:
         - label: Electronic Data Capture (EDC)
         - label: Electronic Health Record (EHR)
         - label: eSource
-        - label: Inclusion / Exclusion criteria
         - label: Operational systems (i.e. CTMS, IRT, etc.)
+        - label: Patient elegibility screening
         - label: Registry reporting
         - label: Regulatory submission
+        - label: Study authoring
 
   - type: textarea
     id: other_use_case
