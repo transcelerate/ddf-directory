@@ -1,6 +1,9 @@
 # Digital Data Flow (DDF) Solution Catalog
 Welcome to the DDF Solution Catalog, here you will find a growing list of self-reported solutions which utilize and follow the DDF Unified Study Definitions Model (USDM). Below you will find a list of solutions which are currently using the USDM and other DDF tools to help promote developing and using fully digitized protocols. Please use this list as a starting point for researching DDF compatible solutions and come back frequently as our list of solutions and use cases grows!
 
+# Legal Disclaimer
+The below information is submitted at will by solution providers, and should not be considered a specific endorsement on the part of TransCelerte or its member companies. It is up to the reader to verify the provided information with the individual organizations before engaging any further.
+
 # How to use the catalog:
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will always be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications or misrepresentations in the material.
 
@@ -16,7 +19,7 @@ Each line of the table represents a unique solution, and will contain the follow
 * Link - External link to organizations website with more information on the specific solution.
 
 ### Use Case Descriptions
-Data analytics and reporting - Solutions automating SAP set-up and statistical analysis
+* Data analytics and reporting - Solutions automating SAP set-up and statistical analysis
 * Data storage in Metadata Repository (MDR) - Solutions enabling data integration from/to an MDR
 * Decentralized Clinical Trials (DCT) - Solutions organizing and/or facilitating DCT set up and operation
 * Diverse and Inclusive Trial Design - Solutions capturing, displaying, and improving trial participant diversity
