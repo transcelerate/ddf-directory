@@ -18,6 +18,8 @@ body:
         3. Solution long descriptions will be stored on the unique page created for your solution; this is your opportunity to provide more context
 
         4. Descriptions for each of the prepopulated use cases are found below:
+        * Data analytics and reporting - Solutions automating SAP set-up and statistical analysis
+        * Data storage in Metadata Repository (MDR) - Solutions enabling data integration from/to an MDR
         * Decentralized Clinical Trials (DCT) - Solutions organizing and/or facilitating DCT set up and operation
         * Diverse and Inclusive Trial Design - Solutions capturing, displaying, and improving trial participant diversity
         * Electronic Data Capture (EDC) - Solutions integrating data from/to EDC systems
@@ -26,6 +28,7 @@ body:
         * Operational systems (i.e. CTMS, IRT, etc.) - Solutions integrating data from/to other operational systems
         * Patient eligibility screening - Solutions utilizing inclusion/exclusion criteria for the purposes of screening participants
         * Registry reporting - Solutions providing automated submission to data registries
+        * Risk management - ABC
         * Regulatory submission - Solutions providing automated submission to regulatory bodies
         * Study authoring - Solutions used to design and publish a study protocol
         * Other use case(s) - If your solution is addressing a use case we do not currently capture, please list this in the "Other Use Case(s)" field for inclusion.
