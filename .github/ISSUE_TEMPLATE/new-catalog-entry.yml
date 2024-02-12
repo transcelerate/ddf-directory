@@ -28,8 +28,8 @@ body:
         * Operational systems (i.e. CTMS, IRT, etc.) - Solutions integrating data from/to other operational systems
         * Patient eligibility screening - Solutions utilizing inclusion/exclusion criteria for the purposes of screening participants
         * Registry reporting - Solutions providing automated submission to data registries
-        * Risk management - ABC
         * Regulatory submission - Solutions providing automated submission to regulatory bodies
+        * Risk management - ABC
         * Study authoring - Solutions used to design and publish a study protocol
         * Other use case(s) - If your solution is addressing a use case we do not currently capture, please list this in the "Other Use Case(s)" field for inclusion.
         
@@ -94,7 +94,11 @@ body:
       description: Please select one or more of the following use cases which your solution enables.
       options:
 
+        - label: Data analytics and reporting
+        - label: Data storage in Metadata Repository (MDR)
         - label: Decentralized Clinical Trials (DCT)
+        - label: 
+        - label:
         - label: Diverse and Inclusive Trial Design
         - label: Electronic Data Capture (EDC)
         - label: Electronic Health Record (EHR)
@@ -103,6 +107,7 @@ body:
         - label: Patient elegibility screening
         - label: Registry reporting
         - label: Regulatory submission
+        - label: Risk management
         - label: Study authoring
 
   - type: textarea
