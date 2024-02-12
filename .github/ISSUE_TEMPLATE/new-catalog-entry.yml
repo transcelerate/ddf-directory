@@ -9,8 +9,8 @@ body:
   - type: markdown
     attributes:
       value: |
-      Please read the following instructions before submitting your solution\n
-      1. test
+        Please read the following instructions before submitting your solution
+        1. test
 
   - type: input
     id: org_name
