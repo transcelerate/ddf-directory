@@ -30,13 +30,13 @@ Data analytics and reporting - Solutions automating SAP set-up and statistical a
 * Risk management - ABC
 * Study authoring - Solutions used to design and publish a study protocol
 
-You can search the catalog using your web browsers built in “search in page” function by pressing “CTRL + F” on Windows, or “CMD + F” for Apple. This will allow you to find specific key words, or use cases, which match your specific needs.
-
 # How to submit your solution
 Please use the following link and form to add your solution to our list. Specific instructions for using the form are included on the linked page. 
 [Click here to add your solution](https://github.com/colin-bradshaw-pac/ddf-home-testing/issues/new?assignees=&labels=&projects=&template=issue_form.yml&title=%5BNew+Catalog+Entry%5D+%3A+)
 
 ## DDF Catalog
+
+To search for specific keywords in the table, please use your web browsers built in “search in page” function by pressing “CTRL + F” on Windows, or “CMD + F” for MacOS.
 
 | Organization Name | Solution Name | Contact Email | Solution Description | More Info | Covered Use Cases | USDM Version Compatibility | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
