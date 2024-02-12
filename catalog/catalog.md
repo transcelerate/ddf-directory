@@ -35,7 +35,7 @@ Each line of the table represents a unique solution, and will contain the follow
 
 # How to submit your solution
 Please use the following link and form to add your solution to our list. Specific instructions for using the form are included on the linked page. 
-[Click here to add your solution](https://github.com/colin-bradshaw-pac/ddf-home-testing/issues/new?assignees=&labels=&projects=&template=issue_form.yml&title=%5BNew+Catalog+Entry%5D+%3A+)
+[Click here to add your solution](https://github.com/transcelerate/ddf-catalog/issues/new?assignees=&labels=&projects=&template=new-catalog-entry.yml&title=%5BDDF+Catalog+Entry%5D+%3A+Please+Copy+Solution+Name+Here)
 
 ## DDF Catalog
 
