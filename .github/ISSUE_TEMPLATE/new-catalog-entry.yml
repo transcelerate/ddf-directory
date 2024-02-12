@@ -10,7 +10,14 @@ body:
     attributes:
       value: |
         Please read the following instructions before submitting your solution
-        1. test
+        
+        * Submit ONE form per solution, for clarity in the published catalog we do not want to have multiple solutions under a single line.
+        * Solution short descriptions will be truncated to the first 250 characters to preserve formatting in the published catalog. Please keep your short descriptions under 250 characters to avoid losing any information.
+        * Solution long descriptions will be stored on the unique page created for your solution, this is your opportunity to provide more context
+        * Think of this catalog as a virtual pamphlet or business card which you would give to someone at an in person event. It should contain enough information to inform them on your product, and give an idea of where to reach out to continue the conversation.
+        * Please confirm the information is correct before submitting the form, once submitted it may be difficult to modify your submission with specific updates.
+
+        If you have any questions, please reach out to DDF@transceleratebiopharmainc.com for further assistance.
 
   - type: input
     id: org_name
@@ -32,7 +39,7 @@ body:
     id: primary_contact_email
     attributes:
       label: Primary Point of Contact Email
-      description: What is the primary contact email for your product/solution?
+      description: What is the primary point of contact email for your solution?
     validations:
       required: true
 
@@ -40,7 +47,7 @@ body:
     id: secondary_contact_email
     attributes:
       label: Secondary Point of Contact Email
-      description: What is the secondary contact email for your product/solution? (Optional)
+      description: What is the secondary point of contact email for your solution? (Optional)
     validations:
       required: false
   
