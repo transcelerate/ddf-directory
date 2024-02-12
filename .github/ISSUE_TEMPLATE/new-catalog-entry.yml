@@ -138,7 +138,7 @@ body:
 
   - type: markdown
     attributes:
-      value: "By submitting this form, I recognize all infomraiton provided in the above form is provided under my own will and is not considered an endosement from TransCelerate or any of it's member companies. I certify all information entered is accurate to the best of my knowledge, and I am legally entitled to submit it."
+      value: "By submitting this form, I recognize all information provided in the above form is provided under my own will and is not considered an endosement from TransCelerate or any of it's member companies. I certify all information entered is accurate to the best of my knowledge, and I am legally empowered to submit it."
 
   - type: checkboxes
     id: confirm
