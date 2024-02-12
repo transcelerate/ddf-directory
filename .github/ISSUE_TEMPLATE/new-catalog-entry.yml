@@ -138,7 +138,7 @@ body:
 
   - type: markdown
     attributes:
-      value: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit non quae provident neque. Soluta ex eum impedit sed ut dolore culpa natus! Possimus, laudantium? Facere blanditiis provident aspernatur. Mollitia, sed qui dolore ad sit quis nihil quod reprehenderit, perspiciatis labore accusantium ab, atque porro doloremque. Voluptatum, maiores iste dicta doloremque necessitatibus nobis mollitia, voluptas, quis aut provident doloribus? Maxime officiis facilis est rem exercitationem itaque veniam qui accusantium quis, labore aliquid doloremque quibusdam voluptatibus eius sequi aut eum soluta perspiciatis voluptates veritatis harum. Saepe consequatur, obcaecati quasi quia repellendus nam minima enim! Rem quam, quos odit facilis distinctio quo molestiae!"
+      value: "By submitting this form, I recognize all infomraiton provided in the above form is provided under my own will and is not considered an endosement from TransCelerate or any of it's member companies. I certify all information entered is accurate to the best of my knowledge, and I am legally entitled to submit it."
 
   - type: checkboxes
     id: confirm
