@@ -11,12 +11,27 @@ body:
       value: |
         Please read the following instructions before submitting your solution
         
-        * Submit ONE form per solution, for clarity in the published catalog we do not want to have multiple solutions under a single line.
-        * Solution short descriptions will be truncated to the first 250 characters to preserve formatting in the published catalog. Please keep your short descriptions under 250 characters to avoid losing any information.
-        * Solution long descriptions will be stored on the unique page created for your solution, this is your opportunity to provide more context
-        * Think of this catalog as a virtual pamphlet or business card which you would give to someone at an in person event. It should contain enough information to inform them on your product, and give an idea of where to reach out to continue the conversation.
-        * Please confirm the information is correct before submitting the form, once submitted it may be difficult to modify your submission with specific updates.
+        1. Submit ONE form per solution, for clarity in the published catalog we do not want to have multiple solutions under a single line.
+        
+        2. Solution short descriptions will be truncated to the first 250 characters to preserve formatting in the published catalog. Please keep your short descriptions under 250 characters to avoid losing any information.
+        
+        3. Solution long descriptions will be stored on the unique page created for your solution; this is your opportunity to provide more context
 
+        4. Descriptions for each of the prepopulated use cases are found below:
+        * Decentralized Clinical Trials (DCT) - Solutions organizing and/or facilitating DCT set up and operation
+        * Diverse and Inclusive Trial Design - Solutions capturing, displaying, and improving trial participant diversity
+        * Electronic Data Capture (EDC) - Solutions integrating data from/to EDC systems
+        * Electronic Health Record (EHR) - Solutions integrating data from/to EHR systems
+        * eSource - Solutions utilizing data collection and integration from non-standard sources (i.e. wearables, in home diagnostics, etc.)
+        * Operational systems (i.e. CTMS, IRT, etc.) - Solutions integrating data from/to other operational systems
+        * Patient eligibility screening - Solutions utilizing inclusion/exclusion criteria for the purposes of screening participants
+        * Registry reporting - Solutions providing automated submission to data registries
+        * Regulatory submission - Solutions providing automated submission to regulatory bodies
+        * Study authoring - Solutions used to design and publish a study protocol
+
+        5. Think of this catalog as a virtual brochure or business card which you would give to someone at an in-person event. It should contain enough information to inform them on your product and give an idea of where to reach out to continue the conversation.
+
+        6. Please confirm the information is correct before submitting the form, once submitted it may be difficult to modify your submission with specific updates.
         
         If you have any questions, please reach out to DDF@transceleratebiopharmainc.com for further assistance.
 
@@ -74,6 +89,7 @@ body:
       label: Covered Use Cases
       description: Please select one or more of the following use cases which your solution enables.
       options:
+
         - label: Decentralized Clinical Trials (DCT)
         - label: Diverse and Inclusive Trial Design
         - label: Electronic Data Capture (EDC)
