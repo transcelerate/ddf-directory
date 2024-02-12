@@ -38,7 +38,7 @@ Please use the following link and form to add your solution to our list. Specifi
 
 [Click here to add your solution](https://github.com/transcelerate/ddf-catalog/issues/new?assignees=&labels=&projects=&template=new-catalog-entry.yml&title=%5BDDF+Catalog+Entry%5D+%3A+Please+Copy+Solution+Name+Here)
 
-Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to DDF@transceleratebiopharmainc.com
+Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to [DDF@transceleratebiopharmainc.com](mailto:DDF@transceleratebiopharmainc.com)
 
 ## DDF Catalog
 
