@@ -4,11 +4,13 @@ title: "[DDF Catalog Entry] : INSTRUCTION TO USERS HERE RE: TITLING ISSUE"
 body:
   - type: markdown
     attributes:
-      value: "# Lorem Ipsum"
+      value: "# Instructions"
 
   - type: markdown
     attributes:
-      value: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo, iure. Officia nam dolor sit voluptatem esse provident labore blanditiis magnam quas, omnis error deserunt perspiciatis facere aliquam ipsam commodi nobis optio cum doloribus! Saepe vitae tempora deserunt?"
+      value: |
+      Please read the following instructions before submitting your solution
+      *test
 
   - type: input
     id: org_name
