@@ -19,9 +19,9 @@ body:
       required: true
   
   - type: input
-    id: product_name
+    id: solution_name
     attributes:
-      label: Product Name
+      label: Solution Name
       description: What is the name of your Digital Data Flow (DDF) compatible solution or platform?
     validations:
       required: true
@@ -43,17 +43,17 @@ body:
       required: false
   
   - type: textarea
-    id: product_short_desc
+    id: solution_short_desc
     attributes:
-      label: Product Short Description
+      label: Solution Short Description
       description: Please provide a short description of your solution (250 characters or less)
     validations:
       required: true
 
   - type: textarea
-    id: product_long_desc
+    id: solution_long_desc
     attributes:
-      label: Product Long Description
+      label: Solution Long Description
       description: Please describe your solution, making sure to include how it utilizes the Unified Study Definition Model (USDM), how it enables protocol digitization, and where it sits on the development lifecycle.
     validations:
       required: true
@@ -89,21 +89,18 @@ body:
       description: What version of the USDM is your solution compatible with?
       multiple: false
       options:
-        - "1.0"
-        - "1.5"
         - "2.0"
         - "2.5"
-        - "2.6"
         - "3.0"
       default: 0
     validations:
       required: true
 
   - type: input
-    id: product_link
+    id: solution_link
     attributes:
-      label: Link to Product Website
-      description: Provide a link to your product website. (Optional)
+      label: Link to Solution Website
+      description: Provide a link to your solution website. (Optional)
     validations:
       required: false
 
