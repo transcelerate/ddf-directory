@@ -41,11 +41,11 @@ def transform_insert_dict(insert_dict: dict[str, str], issue_url):
     # Format Email as mailto: in markdown format
     insert_dict['Primary Point of Contact Email'] = transform_email_address(insert_dict['Primary Point of Contact Email'])
 
-    # Truncate 'Product Short Description' to 250 characters
-    insert_dict["Product Short Description"] = insert_dict['Product Short Description'][0:250]
+    # Truncate 'Solution Short Description' to 250 characters
+    insert_dict["Solution Short Description"] = insert_dict['Solution Short Description'][0:250]
 
-    # Transform 'Product Long Description'
-    insert_dict['Product Long Description'] = format_link_markdown(issue_url, label='More Information')
+    # Transform 'Solution Long Description'
+    insert_dict['Solution Long Description'] = format_link_markdown(issue_url, label='More Information')
 
     # Discard non-selected use cases
     insert_dict['Covered Use Cases'] = transform_use_cases(insert_dict['Covered Use Cases'])
@@ -55,10 +55,10 @@ def transform_insert_dict(insert_dict: dict[str, str], issue_url):
         insert_dict['Covered Use Cases'] = append_other_use_cases(insert_dict['Covered Use Cases'], insert_dict['Other Use Case(s)'])
 
     # Transform external link
-    if insert_dict['Link to Product Website'] != '_No response_':
-        insert_dict['Link to Product Website'] = format_link_markdown(insert_dict['Link to Product Website'], label='LINK')
+    if insert_dict['Link to Solution Website'] != '_No response_':
+        insert_dict['Link to Solution Website'] = format_link_markdown(insert_dict['Link to Solution Website'], label='LINK')
     else:
-        insert_dict['Link to Product Website'] = ''
+        insert_dict['Link to Solution Website'] = ''
 
     # Delete 'Other Use Case(s)' from insert_dict
     del insert_dict['Other Use Case(s)']
