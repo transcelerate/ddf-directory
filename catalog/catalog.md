@@ -17,7 +17,7 @@ Each row of the table represents a unique solution, with colums containing the f
 <li><b>Organization Name</b> - Name of company or team which owns the solution</li>
 <li><b>Solution Name</b> - Name of the specific DDF compatible solution</li>
 <li><b>Contact Email</b> - Point of contact for more information on the solution</li>
-<li><b>Solution Description</b> - Short description of what the solution does, limited to 250</li> characters max</li>
+<li><b>Solution Description</b> - Short description of what the solution does, limited to 250 characters max</li>
 <li><b>More Info</b> - For more information, click this link to view the long description submitted with the solution</li>
 <li><b>Covered Use Cases</b> - Specific use cases addressed by the solution (use case descriptions are below)</li>
 <li><b>USDM Version Compatibility</b> - Latest compatible version of the USDM which the solution utilizes</li>
@@ -43,11 +43,12 @@ Each row of the table represents a unique solution, with colums containing the f
 
 </details>
 
-# For Solution Providers:
-<details>
+# How to add your solution:
+<details open>
 <summary>Click to Expand</summary>
 <p></p>
 Please use the following link and form to add your solution to our list. Specific instructions for the form are included on the linked page.
+<p></p>
 <a href="https://github.com/transcelerate/ddf-catalog/issues/new?assignees=&labels=&projects=&template=new-catalog-entry.yml&title=%5BDDF+Catalog+Entry%5D+%3A+Please+Copy+Solution+Name+Here">Click here to add your solution</a>
 <p></p>
 <i>Note: We are utilizing Github's built in "Issue" function to define a custom form template and capture the solution information</i>
