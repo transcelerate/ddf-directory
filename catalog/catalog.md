@@ -4,7 +4,7 @@ Welcome to the DDF Solution Catalog, here you will find a growing list of self-r
 # Legal Disclaimer
 The below information is submitted at will by solution providers, and should not be considered a specific endorsement on the part of TransCelerte or its member companies. It is up to the reader to verify the provided information with the individual organizations before engaging any further.
 
-# How to use the catalog:
+# How to read the catalog:
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 
 Each line of the table represents a unique solution, and will contain the following information:
@@ -33,7 +33,7 @@ Each line of the table represents a unique solution, and will contain the follow
 * **Risk management** - ABC
 * **Study authoring** - Solutions used to design and publish a study protocol
 
-# How to submit your solution:
+# For Solution Providers:
 Please use the following link and form to add your solution to our list. Specific instructions for the form are included on the linked page.
 
 [Click here to add your solution](https://github.com/transcelerate/ddf-catalog/issues/new?assignees=&labels=&projects=&template=new-catalog-entry.yml&title=%5BDDF+Catalog+Entry%5D+%3A+Please+Copy+Solution+Name+Here)
