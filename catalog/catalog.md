@@ -44,7 +44,7 @@ Each row of the table represents a unique solution, with colums containing the f
 </details>
 
 # How to add your solution:
-<details open>
+<details>
 <summary>Click to Expand</summary>
 <p></p>
 Please use the following link and form to add your solution to our list. Specific instructions for the form are included on the linked page.
