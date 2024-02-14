@@ -8,18 +8,25 @@ The below information is submitted at will by solution providers, and should not
 <details>
 <summary>Click to Expand</summary>
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
-
+<p></p>
 Each line of the table represents a unique solution, and will contain the following information:
-
+<p></p>
 * Organization Name - Name of company or team which owns the solution.
+<p></p>
 * Solution Name - Name of the specific DDF compatible solution.
+<p></p>
 * Contact Email - Point of contact for more information on the solution.
+<p></p>
 * Solution Description - Short description of what the solution does, limited to 250 characters max.
+<p></p>
 * More Info - For more information, click this link to view the long description submitted with the solution.
+<p></p>  
 * Covered Use Cases - Specific use cases addressed by the solution (use case descriptions are below)
+<p></p>
 * USDM Version Compatibility - Latest compatible version of the USDM which the solution utilizes.
+<p></p>
 * Link - External link to organizations website with more information on the specific solution.
-
+<p></p>
 ### Use Case Descriptions
 * **Data analytics and reporting** - Solutions automating SAP set-up and statistical analysis
 * **Data storage in Metadata Repository (MDR)** - Solutions enabling data integration from/to an MDR
