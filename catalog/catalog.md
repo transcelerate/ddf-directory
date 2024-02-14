@@ -19,7 +19,7 @@ Each line of the table represents a unique solution, and will contain the follow
 * **More Info** - For more information, click this link to view the long description submitted with the solution.
 * **Covered Use Cases** - Specific use cases addressed by the solution (use case descriptions are below)
 * **USDM Version Compatibility** - Latest compatible version of the USDM which the solution utilizes.
-* **Link** - External link to organizations website with more information on the specific solution.
+* **Website** - External link to organizations website with more information on the specific solution.
 
 ### Use Case Descriptions
 * **Data analytics and reporting** - Solutions automating SAP set-up and statistical analysis
