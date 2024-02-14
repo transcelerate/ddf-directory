@@ -1,18 +1,18 @@
 # Digital Data Flow (DDF) Solution Catalog
 Welcome to the DDF Solution Catalog, here you will find a growing list of self-reported solutions which utilize and follow the DDF Unified Study Definitions Model (USDM). Below you will find a list of solutions which are currently using the USDM and other DDF tools to help promote developing and using fully digitized protocols. Please use this list as a starting point for researching DDF compatible solutions and come back frequently as our list of solutions and use cases grows!
 
-# Legal Disclaimer
+## Legal Disclaimer
 The below information is submitted at will by solution providers, and should not be considered a specific endorsement on the part of TransCelerte or its member companies. It is up to the reader to verify the provided information with the individual organizations before engaging any further.
 
-# How to read the catalog:
-<details>
+## How to read the catalog:
+<details open>
 
 <summary>Click to Expand</summary>
 
 <p></p>
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 <p></p>
-<h2>Catalog Table Colums</h2>
+<h3><u>Catalog Table Colums</u></h3>
 Each row of the table represents a unique solution, with colums containing the following information:
 <p></p>
 <ul>
@@ -26,7 +26,7 @@ Each row of the table represents a unique solution, with colums containing the f
 <li><b>Website</b> - External link to organizations website with more information on the specific solution</li>
 <p></p>
 </ul>
-<h2>Use Case Descriptions</h2>
+<h3><u>Use Case Descriptions</u></h3>
 <ul>
 <li><b>Data analytics and reporting</b> - Solutions automating SAP set-up and statistical analysis</li>
 <li><b>Data storage in Metadata Repository (MDR)</b> - Solutions enabling data integration from/to an MDR</li>
@@ -45,15 +45,16 @@ Each row of the table represents a unique solution, with colums containing the f
 
 </details>
 
-# How to add your solution:
-<details>
+## How to add your solution:
+<details open>
   
 <summary>Click to Expand</summary>
 
 <p></p>
-Please use the following link and form to add your solution to our list. Specific instructions for the form are included on the linked page.
+Please use the following link to add your solution to our list, specific instructions for completing the form can be found on the linked page.
 <p></p>
 <a href="https://github.com/transcelerate/ddf-catalog/issues/new?assignees=&labels=&projects=&template=new-catalog-entry.yml&title=%5BDDF+Catalog+Entry%5D+%3A+Please+Copy+Solution+Name+Here">Click here to add your solution</a>
+<p></p>
 <i>(Note: We are utilizing Github's built in "Issue" function to define a custom form template and capture the solution information)</i>
 <p></p>
 Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to <a href="mailto:DDF@transceleratebiopharmainc.com">DDF@transceleratebiopharmainc.com</a>
@@ -66,5 +67,5 @@ Please ensure your information is correct before submitting your solution. Once 
 To search for specific keywords in the table, please use your web browsers built in “search in page” function by pressing “CTRL + F” on Windows, or “CMD + F” for MacOS.
 
 | Organization Name | Solution Name | Contact Email | Solution Description | More Info | Covered Use Cases | USDM Version Compatibility | Website |
-| :--- | :--- | :--- | :---------------------------------------------- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Example Organization | Example Solution | [Email](mailto:example@domain.com) | Example short description, limited to 250 characters. | [More Information](https://github.com/transcelerate/ddf-catalog/issues/3) | Decentralized Clinical Trials (DCT), Electronic Health Record (EHR), Study authoring, Example Other Use Case | 3.0 | [LINK](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/) |
