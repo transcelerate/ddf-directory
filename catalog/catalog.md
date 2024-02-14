@@ -67,3 +67,4 @@ To search for specific keywords in the table, please use your web browsers built
 
 | Organization Name | Solution Name | Contact Email | Solution Description | More Info | Covered Use Cases | USDM Version Compatibility | Website |
 | :--- | :--- | :--- | :---------------------------------------------- | :--- | :--- | :--- | :--- |
+| Example Organization | Example Solution | [Email](mailto:example@domain.com) | Example short description, limited to 250 characters. | [More Information](https://github.com/transcelerate/ddf-catalog/issues/3) | Decentralized Clinical Trials (DCT), Electronic Health Record (EHR), Study authoring, Example Other Use Case | 3.0 | [LINK](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/) |
