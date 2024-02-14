@@ -6,7 +6,7 @@ The below information is submitted at will by solution providers, and should not
 
 # How to read the catalog:
 <details>
-<summary>Expand</summary>
+<summary>Click to Expand</summary>
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 
 Each line of the table represents a unique solution, and will contain the following information:
@@ -34,10 +34,11 @@ Each line of the table represents a unique solution, and will contain the follow
 * **Regulatory submission** - Solutions providing automated submission to regulatory bodies
 * **Risk management** - ABC
 * **Study authoring** - Solutions used to design and publish a study protocol
-
 </details>
 
 # For Solution Providers:
+<details>
+<summary>Click to Expand</summary>
 Please use the following link and form to add your solution to our list. Specific instructions for the form are included on the linked page.
 
 [Click here to add your solution](https://github.com/transcelerate/ddf-catalog/issues/new?assignees=&labels=&projects=&template=new-catalog-entry.yml&title=%5BDDF+Catalog+Entry%5D+%3A+Please+Copy+Solution+Name+Here)
@@ -45,6 +46,7 @@ Please use the following link and form to add your solution to our list. Specifi
 _Note: We are utilizing Github's built in "Issue" function to define a custom form template and capture the solution information_
 
 Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to [DDF@transceleratebiopharmainc.com](mailto:DDF@transceleratebiopharmainc.com)
+</details>
 
 ## DDF Solution Catalog
 
