@@ -7,6 +7,7 @@ The below information is submitted at will by solution providers, and should not
 # How to read the catalog:
 <details open>
 <summary>Click to Expand</summary>
+
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 
 Each line of the table represents a unique solution, and will contain the following information:
@@ -37,6 +38,7 @@ Each line of the table represents a unique solution, and will contain the follow
 * **Regulatory submission** - Solutions providing automated submission to regulatory bodies
 * **Risk management** - ABC
 * **Study authoring** - Solutions used to design and publish a study protocol
+
 </details>
 
 # For Solution Providers:
