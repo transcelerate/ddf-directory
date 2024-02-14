@@ -42,7 +42,7 @@ _Note: We are utilizing Github's built in "Issue" function to define a custom fo
 
 Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to [DDF@transceleratebiopharmainc.com](mailto:DDF@transceleratebiopharmainc.com)
 
-## DDF Catalog
+## DDF Solution Catalog
 
 To search for specific keywords in the table, please use your web browsers built in “search in page” function by pressing “CTRL + F” on Windows, or “CMD + F” for MacOS.
 
