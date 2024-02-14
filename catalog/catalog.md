@@ -8,33 +8,33 @@ The below information is submitted at will by solution providers, and should not
 <details>
 <summary>Click to Expand</summary>
 
-Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
+  Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 
-Each line of the table represents a unique solution, and will contain the following information:
-- **Organization Name** - Name of company or team which owns the solution
-- **Solution Name** - Name of the specific DDF compatible solution
-- **Contact Email** - Point of contact for more information on the solution
-- **Solution Description** - Short description of what the solution does, limited to 250 characters max
-- **More Info** - For more information, click this link to view the long description submitted with the solution
-- **Covered Use Cases** - Specific use cases addressed by the solution (use case descriptions are below)
-- **USDM Version Compatibility** - Latest compatible version of the USDM which the solution utilizes
-- **Website** - External link to organizations website with more information on the specific solution
+  Each line of the table represents a unique solution, and will contain the following information:
+  - **Organization Name** - Name of company or team which owns the solution
+  - **Solution Name** - Name of the specific DDF compatible solution
+  - **Contact Email** - Point of contact for more information on the solution
+  - **Solution Description** - Short description of what the solution does, limited to 250 characters max
+  - **More Info** - For more information, click this link to view the long description submitted with the solution
+  - **Covered Use Cases** - Specific use cases addressed by the solution (use case descriptions are below)
+  - **USDM Version Compatibility** - Latest compatible version of the USDM which the solution utilizes
+  - **Website** - External link to organizations website with more information on the specific solution
 
-### Use Case Descriptions
+  ### Use Case Descriptions
 
-* **Data analytics and reporting** - Solutions automating SAP set-up and statistical analysis
-* **Data storage in Metadata Repository (MDR)** - Solutions enabling data integration from/to an MDR
-* **Decentralized Clinical Trials (DCT)** - Solutions organizing and/or facilitating DCT set up and operation
-* **Diverse and Inclusive Trial Design** - Solutions capturing, displaying, and improving trial participant diversity
-* **Electronic Data Capture (EDC)** - Solutions integrating data from/to EDC systems
-* **Electronic Health Record (EHR)** - Solutions integrating data from/to EHR systems
-* **eSource** - Solutions utilizing data integration from non-standard sources (i.e. wearables, in home diagnostics, etc.)
-* **Operational systems (i.e. CTMS, IRT, etc.)** - Solutions integrating data from/to other operational systems
-* **Patient eligibility screening** - Solutions utilizing inclusion/exclusion criteria for the purposes of screening participants
-* **Registry reporting** - Solutions providing automated submission to data registries
-* **Regulatory submission** - Solutions providing automated submission to regulatory bodies
-* **Risk management** - Solutions supporting risk assessment, monitoring and/or analysis
-* **Study authoring** - Solutions used to design and publish a study protocol
+  - **Data analytics and reporting** - Solutions automating SAP set-up and statistical analysis
+  - **Data storage in Metadata Repository (MDR)** - Solutions enabling data integration from/to an MDR
+  - **Decentralized Clinical Trials (DCT)** - Solutions organizing and/or facilitating DCT set up and operation
+  - **Diverse and Inclusive Trial Design** - Solutions capturing, displaying, and improving trial participant diversity
+  - **Electronic Data Capture (EDC)** - Solutions integrating data from/to EDC systems
+  - **Electronic Health Record (EHR)** - Solutions integrating data from/to EHR systems
+  - **eSource** - Solutions utilizing data integration from non-standard sources (i.e. wearables, in home diagnostics, etc.)
+  - **Operational systems (i.e. CTMS, IRT, etc.)** - Solutions integrating data from/to other operational systems
+  - **Patient eligibility screening** - Solutions utilizing inclusion/exclusion criteria for the purposes of screening participants
+  - **Registry reporting** - Solutions providing automated submission to data registries
+  - **Regulatory submission** - Solutions providing automated submission to regulatory bodies
+  - **Risk management** - Solutions supporting risk assessment, monitoring and/or analysis
+  - **Study authoring** - Solutions used to design and publish a study protocol
 
 </details>
 
