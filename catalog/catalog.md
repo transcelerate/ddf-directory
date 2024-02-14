@@ -5,7 +5,7 @@ Welcome to the DDF Solution Catalog, here you will find a growing list of self-r
 The below information is submitted at will by solution providers, and should not be considered a specific endorsement on the part of TransCelerte or its member companies. It is up to the reader to verify the provided information with the individual organizations before engaging any further.
 
 # How to read the catalog:
-<details open>
+<details>
 <summary>Click to Expand</summary>
 <p></p>
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
