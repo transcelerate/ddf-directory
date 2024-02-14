@@ -11,15 +11,14 @@ The below information is submitted at will by solution providers, and should not
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 
 Each line of the table represents a unique solution, and will contain the following information:
-
-* **Organization Name** - Name of company or team which owns the solution.
-* **Solution Name** - Name of the specific DDF compatible solution.
-* **Contact Email** - Point of contact for more information on the solution.
-* **Solution Description** - Short description of what the solution does, limited to 250 characters max.
-* **More Info** - For more information, click this link to view the long description submitted with the solution.
-* **Covered Use Cases** - Specific use cases addressed by the solution (use case descriptions are below)
-* **USDM Version Compatibility** - Latest compatible version of the USDM which the solution utilizes.
-* **Website** - External link to organizations website with more information on the specific solution.
+- **Organization Name** - Name of company or team which owns the solution.
+- **Solution Name** - Name of the specific DDF compatible solution.
+- **Contact Email** - Point of contact for more information on the solution.
+- **Solution Description** - Short description of what the solution does, limited to 250 characters max.
+- **More Info** - For more information, click this link to view the long description submitted with the solution.
+- **Covered Use Cases** - Specific use cases addressed by the solution (use case descriptions are below)
+- **USDM Version Compatibility** - Latest compatible version of the USDM which the solution utilizes.
+- **Website** - External link to organizations website with more information on the specific solution.
 
 ### Use Case Descriptions
 
