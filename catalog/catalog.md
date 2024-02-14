@@ -22,6 +22,7 @@ Each line of the table represents a unique solution, and will contain the follow
 * **Website** - External link to organizations website with more information on the specific solution.
 
 ### Use Case Descriptions
+
 * **Data analytics and reporting** - Solutions automating SAP set-up and statistical analysis
 * **Data storage in Metadata Repository (MDR)** - Solutions enabling data integration from/to an MDR
 * **Decentralized Clinical Trials (DCT)** - Solutions organizing and/or facilitating DCT set up and operation
