@@ -66,7 +66,6 @@ Please ensure your information is correct before submitting your solution. Once 
 To search for specific keywords in the table, please use your web browsers built in “search in page” function by pressing “CTRL + F” on Windows, or “CMD + F” for MacOS.
 
 | Organization Name | Solution Name | Contact Email | Solution Description | More Info | Covered Use Cases | USDM Version Compatibility | Website |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :------------- | :--- | :--- | :--- | :--- |
 | PA Consulting | Example Product Name | [Email](mailto:colin-bradshaw@paconsulting.com) | A short product description. It's limited to 250 characters. | [More Information](https://github.com/colin-bradshaw-pac/ddf-home-testing/issues/76) | Electronic Health Record (EHR), An unlisted use case, another unlisted use case | 3.0 | [LINK](www.example.website.com) |
 | PA Consulting | Test Product #1 | [Email](mailto:Colin.Bradshaw@paconsulting.com) | Short Description of Product | [More Information](https://github.com/transcelerate/ddf-catalog/issues/1) | Electronic Health Record (EHR), Un-listed use case, another un-listed use case | 2.6 | [LINK](www.google.com) |
-| a | a | [Email](mailto:a) | a | [More Information](https://github.com/transcelerate/ddf-catalog/issues/2) | Data analytics and reporting, Electronic Health Record (EHR), Operational systems (i.e. CTMS, IRT, etc.), a,b,c | 3.0 | [LINK](a) |
