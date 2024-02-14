@@ -10,8 +10,7 @@ The below information is submitted at will by solution providers, and should not
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 <p></p>
 Each line of the table represents a unique solution, and will contain the following information:
-<p></p>
-* Organization Name - Name of company or team which owns the solution.
+<p>* Organization Name - Name of company or team which owns the solution.</p>
 <p></p>
 * Solution Name - Name of the specific DDF compatible solution.
 <p></p>
