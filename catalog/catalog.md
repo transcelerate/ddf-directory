@@ -6,11 +6,13 @@ The below information is submitted at will by solution providers, and should not
 
 # How to read the catalog:
 <details>
+
 <summary>Click to Expand</summary>
+
 <p></p>
 Our current iteration of the DDF Solution Catalog is meant to provide basic functionality for capturing and displaying solutions as they are submitted. New solutions will be appended to the bottom of the table in the order they are submitted, and we will work hard to ensure there are no duplications in the material.
 <p></p>
-<h2>Table Colums</h2>
+<h2>Catalog Table Colums</h2>
 Each row of the table represents a unique solution, with colums containing the following information:
 <p></p>
 <ul>
@@ -45,7 +47,9 @@ Each row of the table represents a unique solution, with colums containing the f
 
 # How to add your solution:
 <details>
+  
 <summary>Click to Expand</summary>
+
 <p></p>
 Please use the following link and form to add your solution to our list. Specific instructions for the form are included on the linked page.
 <p></p>
@@ -55,6 +59,7 @@ Please use the following link and form to add your solution to our list. Specifi
 <p></p>
 Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to <a href="mailto:DDF@transceleratebiopharmainc.com">DDF@transceleratebiopharmainc.com</a>
 <p></p>
+  
 </details>
 
 ## DDF Solution Catalog
