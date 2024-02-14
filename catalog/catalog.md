@@ -45,7 +45,7 @@ The below information is submitted at will by solution providers, and should not
 Please use the following link and form to add your solution to our list. Specific instructions for the form are included on the linked page.
 <a href="https://github.com/transcelerate/ddf-catalog/issues/new?assignees=&labels=&projects=&template=new-catalog-entry.yml&title=%5BDDF+Catalog+Entry%5D+%3A+Please+Copy+Solution+Name+Here">Click here to add your solution</a>
 <p></p>
-<i>Note: We are utilizing Github's built in "Issue" function to define a custom form template and capture the solution information</i>i>
+<i>Note: We are utilizing Github's built in "Issue" function to define a custom form template and capture the solution information</i>
 <p></p>
 Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to <a href="mailto:DDF@transceleratebiopharmainc.com">DDF@transceleratebiopharmainc.com</a>
 <p></p>
