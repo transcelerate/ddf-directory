@@ -4,7 +4,7 @@ The purpose of this document is to provide version/contact information and instr
 
 ## Description
 
-[Problem Statement goes here]
+This tools provides opportunities for solution providers and sponsors to connect and learn more about possible solutions utilizing Digital Data Flow (DDF) and the Unified Study Definitions Model (USDM).
 
 ## Design
 
