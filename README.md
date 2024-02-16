@@ -25,7 +25,7 @@ Simply extract this package to the root directory of any github repository
 	        * update-catalog.yml
 	* catalog
 	    * add_row.py
-        * catalog.md
+            * catalog.md
 	* README.md
 
 
