@@ -22,7 +22,7 @@ Simply extract this package to the root directory of any github repository
             * ISSUE_TEMPLATE
                 * new-catalog-entry.yml
             * workflows
-	        * update-catalog.yml
+		        * update-catalog.yml
         * catalog
             * add_row.py
             * catalog.md
