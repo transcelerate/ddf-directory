@@ -21,12 +21,12 @@ Simply extract this package to the root directory of any github repository
         * .github
             * ISSUE_TEMPLATE
                 * new-catalog-entry.yml
-	    * workflows
+            * workflows
 	        * update-catalog.yml
-	* catalog
-	    * add_row.py
+        * catalog
+            * add_row.py
             * catalog.md
-	* README.md
+        * README.md
 
 
 ### Executing program
