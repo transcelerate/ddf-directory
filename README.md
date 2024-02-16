@@ -41,10 +41,10 @@ Program is automatically executed every time the new-catalog-entry issue form is
 ### File Descriptions and Maintenance
     
 * new-catalog-entry.yml
-    * _Description_: File contains the code which captures the form information into a payload, before saving and passing the payload to "add_row.py".
+    * _Description_: File contains the template for the information captured in the "New Catalog Entry" form.
     * _Maintenance_: If more information is required from solution submissions, this file will need to be updated with the specific fields and instructions for collecting this information. Otherwise, no regular maintenance is required.
 * update-catalog.yml
-    * _Description_: File contains the code which collects the information from the form entry, loads it into a payload before saving as an environment variable.
+    * _Description_: File contains the template for the update GitHub action, providing the structure of how the action is triggered and the steps that take place when the action is triggered.
     * _Maintenance_: If changes are made to the "new-catalog-entry.yml" form, this file will need to be updated with code to handle the payload and variable creation. Otherwise, no regular maintenance is required.
 * add_row.py
     * _Description_: File contains the code which transforms and loads the payload from the form entry, before adding the transformed information into the "catalog.md" for public display.
