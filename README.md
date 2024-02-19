@@ -57,6 +57,9 @@ Program is automatically executed every time the new-catalog-entry issue form is
     * _Description_: File contains basic information for the repository, including file structure, file descriptions, maintenance, usage, authors, and version history.
     * _Maintenance_: Updates will need to be made as changes to files, structures, or usage occurs. All updates should be reflected in the version history at the bottom of the page.
 
+## Known Issues and Limitations
+This program will currently trigger when any issue is logged. As a result, if this program deployed to a repo where other issue form templates currently exist and are being used, any issue not logged from the new-catalog-entry.md template will fail and trigger error notifications to the repo owner.
+
 ## Authors
 
 * Colin Bradshaw - Colin.Bradshaw@PACONSULTING.COM
