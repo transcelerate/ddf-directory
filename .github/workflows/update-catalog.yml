@@ -1,4 +1,4 @@
-name: Update Catalog Run
+name: Update Catalog
 
 on:
   issues:
@@ -10,6 +10,7 @@ env:
 jobs:
   update-catalog:
     name: Update Catalog
+    if: contains(github.event.issue.labels.*.name, 'new-catalog-entry')
     runs-on: ubuntu-latest
     permissions:
       contents: write

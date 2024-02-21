@@ -1,6 +1,7 @@
 name: New Catalog Entry
 description: Add a row to the DDF Catalog
 title: "[DDF Catalog Entry] : Please Copy Solution Name Here"
+labels: ["new-catalog-entry"]
 body:
   - type: markdown
     attributes:
