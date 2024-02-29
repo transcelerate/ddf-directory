@@ -19,7 +19,7 @@ def transform_email_address(email: str) -> str:
     return email
 
 def append_other_use_cases(use_cases: str, other_use_cases: str) -> str:
-    '''Function for appending any freetext use cases to the "Covered Ue Cases" field, discarding the "Other(s)" option, if selected.'''
+    '''Function for appending any freetext use cases to the "Covered Use Cases" field, discarding the "Other(s)" option, if selected.'''
     if use_cases == '_No response_':
         use_cases = other_use_cases
         pass
@@ -70,7 +70,7 @@ def write_to_directory(insert_dict: dict[str, str])-> None:
     # Convert dictionary values to list
     insert_list = list(insert_dict.values())
 
-    # Transform list into pip delimited string, for insertion into markdown table
+    # Transform list into pipe delimited string, for insertion into markdown table
     insert_row = '| ' + ' | '.join(insert_list) + ' |'
 
     # Open directory.md and write row to bottom of file
