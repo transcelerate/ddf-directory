@@ -1,7 +1,7 @@
-name: New Catalog Entry
-description: Add a row to the DDF Catalog
-title: "[DDF Catalog Entry] : Please Copy Solution Name Here"
-labels: ["new-catalog-entry"]
+name: New Directory Entry
+description: Add a row to the DDF Directory
+title: "[DDF Directory Entry] : Please Copy Solution Name Here"
+labels: ["new-directory-entry"]
 body:
   - type: markdown
     attributes:
@@ -12,9 +12,9 @@ body:
       value: |
         Please read the following instructions before submitting your solution
         
-        1. Submit ONE form per solution, for clarity in the published catalog we do not want to have multiple solutions under a single line.
+        1. Submit ONE form per solution, for clarity in the published directory we do not want to have multiple solutions under a single line.
         
-        2. Solution short descriptions will be truncated to the first 250 characters to preserve formatting in the published catalog. Please keep your short descriptions under 250 characters to avoid losing any information.
+        2. Solution short descriptions will be truncated to the first 250 characters to preserve formatting in the published directory. Please keep your short descriptions under 250 characters to avoid losing any information.
         
         3. Solution long descriptions will be stored on the unique page created for your solution; this is your opportunity to provide more context
 
@@ -34,7 +34,7 @@ body:
         * Study authoring - Solutions used to design and publish a study protocol
         * Other use case(s) - If your solution is addressing a use case we do not currently capture, please list this in the "Other Use Case(s)" field for inclusion.
         
-        5. Think of this catalog as a virtual brochure or business card which you would give to someone at an in-person event. It should contain enough information to inform them on your product and give an idea of where to reach out to continue the conversation.
+        5. Think of this directory as a virtual brochure or business card which you would give to someone at an in-person event. It should contain enough information to inform them on your product and give an idea of where to reach out to continue the conversation.
 
         6. Please confirm the information is correct before submitting the form, once submitted it may be difficult to modify your submission with specific updates.
         
@@ -145,7 +145,7 @@ body:
 
   - type: markdown
     attributes:
-      value: "By submitting this form, I recognize all information provided in the above form is provided under my own will and is not considered an endosement from TransCelerate or any of it's member companies. I certify all information entered is accurate to the best of my knowledge, and I am legally empowered to submit it."
+      value: "By submitting this form, I recognize all information provided in the above form is provided freely and not done to satisfy any agreement or understanding with any other party, including TransCelerate or any TransCelerate member.  Further, I acknowledge that TransCelerate does not endorse vendors, tech companies, or their products or services and that, by providing this forum and allowing this post neither TransCelerate nor any TransCelerate member is explicitly or implicitly endorsing my company or its products or services.  under my own will and is not considered an endosement from TransCelerate or any of it's member companies. If there is any PII or personal data in the form above, I acknowledge that I have obtained the appropriate consent or permission to allow TransCelerate to use the PII/Personal Data as part of the vendor directory.  For more information on how PII/Personal Data may be used, please see the Privacy Notice. I certify that all information entered is accurate and not misleadingto the best of my knowledge, and, does not infringe any other party’s intellectual property."
 
   - type: checkboxes
     id: confirm

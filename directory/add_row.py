@@ -3,7 +3,7 @@ import os
 import json
 
 # Define constants
-CATALOG_PATH = r'catalog/catalog.md'
+DIRECTORY_PATH = r'directory/directory.md'
 
 def transform_use_cases(use_cases: str) -> str:
     '''Function for discarding any use cases that were not selected.'''
@@ -65,7 +65,7 @@ def transform_insert_dict(insert_dict: dict[str, str], issue_url):
 
     return insert_dict
 
-def write_to_catalog(insert_dict: dict[str, str])-> None:
+def write_to_directory(insert_dict: dict[str, str])-> None:
     '''Function to convert the insert_dict into a markdown table row and write it to file.'''
     # Convert dictionary values to list
     insert_list = list(insert_dict.values())
@@ -73,8 +73,8 @@ def write_to_catalog(insert_dict: dict[str, str])-> None:
     # Transform list into pip delimited string, for insertion into markdown table
     insert_row = '| ' + ' | '.join(insert_list) + ' |'
 
-    # Open catalog.md and write row to bottom of file
-    with open(CATALOG_PATH, 'r+') as fin:
+    # Open directory.md and write row to bottom of file
+    with open(DIRECTORY_PATH, 'r+') as fin:
         lines = fin.read()
         if lines[-1] in ['\n', '\r\n', '']:
             fin.write(insert_row)
@@ -82,7 +82,7 @@ def write_to_catalog(insert_dict: dict[str, str])-> None:
             fin.write('\n'+insert_row)
 
 def main():
-    '''Main function, transforms payload into a markdown table formatted string and inserts it to the catalog.md file.'''
+    '''Main function, transforms payload into a markdown table formatted string and inserts it to the directory.md file.'''
     # Store github_issue_context payload as python dictionary
     payload_dict: dict = json.loads(os.environ['GITHUB_CONTEXT'])
 
@@ -96,7 +96,7 @@ def main():
     # Perform all insert_dict transformations
     insert_dict = transform_insert_dict(insert_dict, issue_url)
 
-    write_to_catalog(insert_dict)
+    write_to_directory(insert_dict)
 
 if __name__ == "__main__":
     main()

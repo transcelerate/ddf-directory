@@ -1,4 +1,4 @@
-name: Update Catalog
+name: Update Directory
 
 on:
   issues:
@@ -8,9 +8,9 @@ env:
   GITHUB_CONTEXT: ${{ toJson(github.event.issue) }}
 
 jobs:
-  update-catalog:
-    name: Update Catalog
-    if: contains(github.event.issue.labels.*.name, 'new-catalog-entry')
+  update-directory:
+    name: Update Directory
+    if: contains(github.event.issue.labels.*.name, 'new-directory-entry')
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,7 +19,7 @@ jobs:
     - name: Check-out python repository
       uses: actions/checkout@v4
       with:
-        sparse-checkout: 'catalog'
+        sparse-checkout: 'directory'
         sparse-checkout-cone-mode: false
         token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,12 +27,12 @@ jobs:
       run: |
         ls ${{ github.workspace }}
 
-    - name: check catalog
+    - name: check directory
       run: |
-        ls ${{ github.workspace }}/catalog
+        ls ${{ github.workspace }}/directory
 
     - name: Run add_row
-      run: python ${{ github.workspace }}/catalog/add_row.py
+      run: python ${{ github.workspace }}/directory/add_row.py
       shell: sh
 
     - name: Check git config
@@ -43,8 +43,8 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add ${{ github.workspace }}/catalog/catalog.md
-        git commit -m "Adding Row from issue #${{ github.event.issue.number }} to Catalog via Github Action"
+        git add ${{ github.workspace }}/directory/directory.md
+        git commit -m "Adding Row from issue #${{ github.event.issue.number }} to Directory via Github Action"
     
     - name: Push changes
       uses: ad-m/github-push-action@v0.8.0
