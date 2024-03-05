@@ -20,19 +20,19 @@ body:
 
         4. Descriptions for each of the prepopulated use cases are found below:
         * **Data analytics and reporting** - Solutions automating SAP set-up and statistical analysis
-        * Data storage in Metadata Repository (MDR) - Solutions enabling data integration from/to an MDR
-        * Decentralized Clinical Trials (DCT) - Solutions organizing and/or facilitating DCT set up and operation
-        * Diverse and Inclusive Trial Design - Solutions capturing, displaying, and improving trial participant diversity
-        * Electronic Data Capture (EDC) - Solutions integrating data from/to EDC systems
-        * Electronic Health Record (EHR) - Solutions integrating data from/to EHR systems
-        * eSource - Solutions utilizing data integration from non-standard sources (i.e. wearables, in home diagnostics, etc.)
-        * Operational systems (i.e. CTMS, IRT, etc.) - Solutions integrating data from/to other operational systems
-        * Patient eligibility screening - Solutions utilizing inclusion/exclusion criteria for the purposes of screening participants
-        * Registry reporting - Solutions providing automated submission to data registries
-        * Regulatory submission - Solutions providing automated submission to regulatory bodies
-        * Risk management - Solutions supporting risk assessment, monitoring and/or analysis
-        * Study authoring - Solutions used to design and publish a study protocol
-        * Other use case(s) - If your solution is addressing a use case we do not currently capture, please list this in the "Other Use Case(s)" field for inclusion.
+        * **Data storage in Metadata Repository (MDR)** - Solutions enabling data integration from/to an MDR
+        * **Decentralized Clinical Trials (DCT)** - Solutions organizing and/or facilitating DCT set up and operation
+        * **Diverse and Inclusive Trial Design** - Solutions capturing, displaying, and improving trial participant diversity
+        * **Electronic Data Capture (EDC)** - Solutions integrating data from/to EDC systems
+        * **Electronic Health Record (EHR)** - Solutions integrating data from/to EHR systems
+        * **eSource** - Solutions utilizing data integration from non-standard sources (i.e. wearables, in home diagnostics, etc.)
+        * **Operational systems (i.e. CTMS, IRT, etc.)** - Solutions integrating data from/to other operational systems
+        * **Patient eligibility screening** - Solutions utilizing inclusion/exclusion criteria for the purposes of screening participants
+        * **Registry reporting** - Solutions providing automated submission to data registries
+        * **Regulatory submission** - Solutions providing automated submission to regulatory bodies
+        * **Risk management** - Solutions supporting risk assessment, monitoring and/or analysis
+        * **Study authoring** - Solutions used to design and publish a study protocol
+        * **Other use case(s)** - If your solution is addressing a use case we do not currently capture, please list this in the "Other Use Case(s)" field for inclusion.
         
         5. Think of this directory as a virtual brochure or business card which you would give to someone at an in-person event. It should contain enough information to inform them on your product and give an idea of where to reach out to continue the conversation.
 
