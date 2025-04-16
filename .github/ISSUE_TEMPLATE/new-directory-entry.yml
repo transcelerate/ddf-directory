@@ -14,7 +14,7 @@ body:
         
         1. Submit ONE form per solution, for clarity in the published directory we do not want to have multiple solutions under a single line.
         
-        2. Solution short descriptions will be truncated to the first 250 characters to preserve formatting in the published directory. Please keep your short descriptions under 250 characters to avoid losing any information.
+        2. Solution short descriptions will be truncated to the first 250 characters to preserve formatting in the published directory. Please keep your short descriptions under 250 characters to avoid losing any information. This field will only accept unformatted text, any links, images, or other files submitted will not be parsed and may cause your directyory entry to fail.
         
         3. Solution long descriptions will be stored on the unique page created for your solution; this is your opportunity to provide more context
 
