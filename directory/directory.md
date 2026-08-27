@@ -63,7 +63,7 @@ Please use the following link to add your solution to our list, specific instruc
 <p></p>
 <a href="https://github.com/transcelerate/ddf-directory/issues/new?assignees=&labels=&projects=&template=new-directory-entry.yml&title=%5BDDF+Directory+Entry%5D+%3A+Please+Copy+Solution+Name+Here">Click here to add your solution</a>
 <p></p>
-<i>(Note: We are utilizing Github's built in "Issue" function to define a custom form template and capture the solution information)</i>
+<i>(Note: We are utilizing Github's built in "Issue" function to define a custom form template and capture the solution information. This form will be upgraded Dec 2026.)</i>
 <p></p>
 Please ensure your information is correct before submitting your solution. Once submitted, it will be difficult to modify the captured information, and any site administration will take place once a quarter via written request to <a href="mailto:DDF@transceleratebiopharmainc.com">DDF@transceleratebiopharmainc.com</a>
 <p></p>
